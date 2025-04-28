@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABXClient", "ABXClient.csproj", "{B6B1660D-512B-4727-8F3A-DF5D15B5415C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B1660D-512B-4727-8F3A-DF5D15B5415C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B1660D-512B-4727-8F3A-DF5D15B5415C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B1660D-512B-4727-8F3A-DF5D15B5415C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B1660D-512B-4727-8F3A-DF5D15B5415C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3138C98-39F6-460D-B296-BAF2B2B50C4A}
+	EndGlobalSection
+EndGlobal
